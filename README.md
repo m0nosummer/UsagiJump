@@ -315,11 +315,11 @@ Boolean 플래그(`isGreen`)를 활용한 단순하지만 효과적인 상태 �
 ---
 
 ## 스크린샷
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66bbde40-91d1-45b5-b4d2-d1ff364f964a" width="300" />
+  <img src="https://github.com/user-attachments/assets/c4b3a364-a505-4154-8515-f8e58fea8b0d" width="300" />
+</p>
 
-<!-- 여기에 실제 스크린샷 추가 -->
-| 메인 메뉴 | 게임 플레이 |
-|:---:|:---:|:---:|
-| ![1](https://github.com/user-attachments/assets/66bbde40-91d1-45b5-b4d2-d1ff364f964a) | ![Video Project](https://github.com/user-attachments/assets/c4b3a364-a505-4154-8515-f8e58fea8b0d) |
 
 ---
 
