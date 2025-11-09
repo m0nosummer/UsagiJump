@@ -1,4 +1,0 @@
-repository "Usagi_Jump@treesky@cloud"
-  path "/"
-    br "/main"
-    co "/main"
